@@ -1,2 +1,2 @@
 # advent-of-code-python
-Here I'll dump my soluions for https://adventofcode.com/ in Python
+Here I'll dump my solutions for https://adventofcode.com/ in Python
