@@ -1,0 +1,7 @@
+[project]
+name = "advent-of-code-python"
+version = "0.1.0"
+description = "Here I'll dump my solutions for https://adventofcode.com/ in Python"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
